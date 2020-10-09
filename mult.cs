@@ -1,4 +1,4 @@
-public mult(int a, int b)
+public  add(int a, int b)
 {
-int c = a * b;
+int c = a + b;
 }
