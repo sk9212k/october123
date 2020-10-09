@@ -1,4 +1,4 @@
-public  add(int a, int b)
+public  multinsteadofadd(int a, int b)
 {
 int c = a + b;
 }
